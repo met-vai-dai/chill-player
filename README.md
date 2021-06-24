@@ -3,7 +3,7 @@
 A simple music streaming app created using React library.
 
 
-#### Use Chill Player https://music.mohitacharya.com.np/
+#### Use Chill Player https://hexmo.github.io/chill-player/
 
 App screen shots:
 
