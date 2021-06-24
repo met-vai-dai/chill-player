@@ -1,8 +1,7 @@
-#Chill Player💿
+# Chill Player💿
 
-A simple player app created using React library.
+A simple music streaming app created using React library.
 
-![Logo](https://music.mohitacharya.com.np/favicon.ico)
 
 #### Use Chill Player https://music.mohitacharya.com.np/
 
